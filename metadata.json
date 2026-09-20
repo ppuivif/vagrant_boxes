@@ -1,0 +1,15 @@
+{
+  "name": "pano/debian-13.6-server",
+  "description": "Debian 13.6 Server Vagrant Box for VirtualBox",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "providers": [
+        {
+          "name": "virtualbox",
+          "url": "https://github.com/ppuivif/vagrant_boxes/releases/download/v1.0.0/package.box"
+        }
+      ]
+    }
+  ]
+}
